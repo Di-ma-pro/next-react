@@ -1,6 +1,6 @@
 name: Build an nextjs project
 on:
-  pull-request:
+  pull_request:
   push:
     branches:
       - master
